@@ -82,7 +82,7 @@ hostNetwork: true
 
 ## If true, node-exporter pods mounts host / at /host/root
 ##
-hostRootFsMount: true
+hostRootFsMount: false
 
 ## Assign a group of affinity scheduling rules
 ##
